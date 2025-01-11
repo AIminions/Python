@@ -1,3 +1,2 @@
-# Pandas_command
-for the command
-dd111
+# Pandas Study
+for the study
